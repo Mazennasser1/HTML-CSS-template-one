@@ -9,8 +9,9 @@
     --secondaryColor:#2C4755;
 }
 * {
-    box-sizing: border-box;
-    margin: 0;
+     -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 html{
     scroll-behavior: smooth;
